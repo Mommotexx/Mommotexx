@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mommotexx&label=Profile%20views&color=00ff04&style=flat" alt="mommotexx" /> </p>
 
-- 🔭 I’m currently working on: **kryptofolio.no**
+- 🔭 I’m currently working on: **Gurusoft AS**
 
 - 🌱 I’m currently learning: **Next.JS 14, Unreal Engine, C++**
 
